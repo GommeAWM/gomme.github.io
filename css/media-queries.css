@@ -1,0 +1,540 @@
+@media screen and (min-width: 1386px) {
+	
+	.header_own {
+	position: fixed;
+	border-style: solid;
+	border-color: black;
+	height: 71px;
+	width: 99%;
+	padding: 2px;
+	left: 0px;
+	top: 20px;
+	}
+	
+	.logotext {
+	display: flex;
+	position: fixed;
+	right: 0%;
+	font-size: 25px;
+	padding: -1%;
+	top: -3px;
+	}
+	
+	#navi {
+		position: absolute;
+		border-style: solid;
+		border-color: #00C938;
+		background-color: #00C938;
+		border-radius: 20px;
+		color: black;
+		height: 71px;
+		width: 100%;
+		left: 0px;
+		top: 120px;
+		font-weight: bold;
+	}
+	
+	.li1 {
+		font-size: 30px;
+		margin-top: 2px;
+		text-indent: 570px;
+		margin: 0px 0px 0px -245px;
+	}
+	
+	#sec1 {
+		position: absolute;
+		left: 35%;
+	}
+	
+	#sec2 {
+		position: absolute;
+		left: 41%;
+	}
+	
+}
+
+@media screen and (max-width: 1385px) {
+	.logotext {
+	display: flex;
+	position: fixed;
+	right: 23px;
+	font-size: 25px;
+	padding: -1%;
+	top: -3px;
+	}
+}
+
+@media screen and (max-width: 1200px) {
+	
+	.header_own {
+	position: fixed;
+	border-style: solid;
+	border-color: black;
+	height: 71px;
+	width: 99%;
+	padding: 0px;
+	left: 0px;
+	top: 20px;
+	}
+	
+	.logotext {
+	display: flex;
+	position: fixed;
+	right: 23px;
+	font-size: 25px;
+	padding: -1%;
+	top: -3px;
+	}
+	
+	#navi {
+		position: absolute;
+		border-style: solid;
+		border-color: #00C938;
+		background-color: #00C938;
+		border-radius: 20px;
+		color: black;
+		height: 71px;
+		width: 100%;
+		left: 0px;
+		top: 120px;
+		font-weight: bold;
+	}
+	
+	.li1 {
+		font-size: 25px;
+		margin-top: 2px;
+		text-indent: 451px;
+		margin: 0px 0px 0px -245px;
+	}
+	
+	#sec1 {
+		position: absolute;
+		left: 100px;
+	}
+
+	.sec_bo {
+		position: absolute;
+		right: 30px;
+	}
+	
+}
+
+@media screen and (max-width: 960px) {
+	.logotext {
+	display: flex;
+	position: fixed;
+	right: 0%;
+	font-size: 25px;
+	padding: -1%;
+	top: -3px;
+	}
+	
+	.header_own {
+	position: absolute;
+	border-style: solid;
+	border-color: black;
+	height: 71px;
+	width: 99%;
+	padding: 2px;
+	left: 0px;
+	top: 20px;
+	}
+	
+	#navi {
+		position: absolute;
+		border-style: solid;
+		border-color: #00C938;
+		background-color: #00C938;
+		border-radius: 20px;
+		color: black;
+		height: 71px;
+		width: 100%;
+		left: 0px;
+		top: 120px;
+		font-weight: bold;
+	}
+	
+	.li1 {
+		font-size: 25px;
+		margin-top: 2px;
+		text-indent: 391px;
+		margin: 0px 0px 0px -245px;
+	}
+	
+}
+
+@media screen and (max-width: 768px) {
+	.logotext {
+	display: flex;
+	position: fixed;
+	right: 0%;
+	font-size: 25px;
+	padding: -1%;
+	top: -3px;
+	}
+	
+	.header_own {
+	position: absolute;
+	border-style: solid;
+	border-color: black;
+	height: 71px;
+	width: 99%;
+	padding: 2px;
+	left: 0px;
+	top: 20px;
+	}
+	
+	#first {
+		position: absolute;
+		background-color: white;
+		border-style: solid;
+		width: 70px;
+		height: 51px;
+		top: 15px;
+		color: black;
+		/* text-indent: 15px; */
+		font-size: 21px;
+		text-align: center;
+		border-radius: 10px;
+	}
+	
+	#second {
+		position: absolute;
+		left: 90px;
+		font-size: 100%;
+		top: 4px;
+	}
+	
+	#third {
+		font-size: 100%;
+		top: 0px;
+	}
+	
+	#logo1 {
+		right: 170px;
+		width: 60px;
+		top: 9px;
+	}
+	
+	#navi {
+		position: absolute;
+		border-style: solid;
+		border-color: #00C938;
+		background-color: #00C938;
+		border-radius: 20px;
+		color: black;
+		height: 71px;
+		width: 100%;
+		left: 0px;
+		top: 120px;
+		font-weight: bold;
+	}
+	
+	.li1 {
+		font-size: 25px;
+		margin-top: 2px;
+		text-indent: 341px;
+		margin: 0px 0px 0px -245px;
+	}
+	
+	#sec1 {
+		position: absolute;
+		left: 30px;
+	}
+	
+	#sec2 {
+		left: 200px;
+	}
+
+	.sec_bo {
+		position: fixed;
+		right: 30px;
+	}
+	
+	#java {
+		position: absolute;
+		top: -60px;
+		left: -65px;
+	}
+	
+	#ExpLine1 {
+		position: absolute;
+		top: 623px;
+		left: 10px;
+	}
+	
+	#ExpLine11 {
+		position: absolute;
+		top: 623px;
+		left: 10px;
+	}
+	
+	#py {
+		position: absolute;
+		left: -21px;
+		top: 10px;
+	}
+	
+	#ExpLine2 {
+		position: absolute;
+		top: 690px;
+		left: 10px;
+	}
+	
+	#ExpLine22 {
+		position: absolute;
+		top: 690px;
+		left: 10px;
+	}
+	
+	#html {
+		position: absolute;
+		left: -41px;
+		top: 75px;
+	}
+	
+	#ExpLine3 {
+		position: absolute;
+		top: 756px;
+		left: 10px;
+	}
+	
+	#ExpLine33 {
+		position: absolute;
+		top: 756px;
+		left: 10px;		
+	}
+	
+	#yt {
+		position: absolute;
+		left: 10px;
+		top: 140px;
+	}
+	
+	#ExpLine4 {
+		position: absolute;
+		top: 821px;
+		left: 10px;
+	}
+	
+	#ExpLine44 {
+		position: absolute;
+		top: 821px;
+		left: 10px;		
+	}
+	
+	#kali {
+		position: absolute;
+		top: 205px;
+		left: 40px;
+	}
+	
+	#ExpLine5 {
+		position: absolute;
+		top: 886px;
+		left: 10px;
+	}
+	
+	#ExpLine55 {
+		position: absolute;
+		top: 886px;
+		left: 10px;
+	}
+}
+
+@media screen and (max-width: 576px) {
+	.logotext {
+	display: flex;
+	position: fixed;
+	right: 0%;
+	font-size: 2px;
+	padding: -1%;
+	top: -3px;
+	}
+	
+	#third {
+		display: flex;
+		position: absolute;
+		right: 0px;
+		font-size: 100%;
+		top: 0px;
+	}
+	
+	#logo1 {
+		position: absolute;
+		width: 55px;
+		right: 170px;
+		background-color: white;
+		border-radius: 100px;
+		top: 12px;
+	}
+	
+	.header_own {
+	position: absolute;
+	border-style: solid;
+	border-color: black;
+	height: 71px;
+	width: 99%;
+	padding: 2px;
+	left: 0px;
+	top: 20px;
+	}
+	
+	#navi {
+		position: absolute;
+		border-style: solid;
+		border-color: #00C938;
+		background-color: #00C938;
+		border-radius: 20px;
+		color: black;
+		height: 71px;
+		width: 100%;
+		left: 0px;
+		top: 120px;
+		font-weight: bold;
+	}
+	
+	.li1 {
+		font-size: 25px;
+		margin-top: 2px;
+		text-indent: 301px;
+		margin: 0px 0px 0px -245px;
+	}
+	
+	#sec1 {
+		position: absolute;
+		left: 10px;
+		font-size: 80px;
+	}
+	
+	#sec2 {
+		left: 100px;
+	}
+
+	.sec_bo {
+		position: fixed;
+		right: 30px;
+	}
+	
+	#first {
+		position: absolute;
+		background-color: white;
+		border-style: solid;
+		width: 70px;
+		height: 51px;
+		top: 15px;
+		color: black;
+		/* text-indent: 15px; */
+		font-size: 21px;
+		text-align: center;
+		border-radius: 10px;
+	}
+	
+	#second {
+		position: absolute;
+		left: 90px;
+		font-size: 100%;
+		top: 4px;
+	}
+	
+	#java {
+		position: absolute;
+		top: -60px;
+		left: -65px;
+	}
+	
+	#ExpLine1 {
+		position: absolute;
+		top: 623px;
+		left: 10px;
+		width: 450px; /* 635/550 */
+	}
+	
+	#ExpLine11 {
+		position: absolute;
+		top: 623px;
+		left: 10px;
+		width: 310px;
+	}
+	
+	#py {
+		position: absolute;
+		left: -21px;
+		top: 10px;
+	}
+	
+	#ExpLine2 {
+		position: absolute;
+		top: 690px;
+		left: 10px;
+		width: 450px;
+	}
+	
+	#ExpLine22 {
+		position: absolute;
+		top: 690px;
+		left: 10px;
+		width: 195px;
+	}
+	
+	#html {
+		position: absolute;
+		left: -41px;
+		top: 75px;
+	}
+	
+	#ExpLine3 {
+		position: absolute;
+		top: 756px;
+		left: 10px;
+		width: 450px;
+	}
+	
+	#ExpLine33 {
+		position: absolute;
+		top: 756px;
+		left: 10px;
+		width: 450px;
+	}
+	
+	#yt {
+		position: absolute;
+		left: 10px;
+		top: 140px;
+	}
+	
+	#ExpLine4 {
+		position: absolute;
+		top: 821px;
+		left: 10px;
+		width: 450px;
+	}
+	
+	#ExpLine44 {
+		position: absolute;
+		top: 821px;
+		left: 10px;	
+		width: 380px;
+	}
+	
+	#kali {
+		position: absolute;
+		top: 207px;
+		left: 40px;
+	}
+	
+	#ExpLine5 {
+		position: absolute;
+		top: 886px;
+		left: 10px;
+		width: 450px;
+	}
+	
+	#ExpLine55 {
+		position: absolute;
+		top: 886px;
+		left: 10px;
+		width: 100px;
+	}
+	
+}
