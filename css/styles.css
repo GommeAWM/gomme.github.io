@@ -83,9 +83,50 @@ li {
 		margin: 0px 0px 0px -280px;
 }
 
+#sec1 {
+	position: absolute;
+	width: 500px;
+	height: 40px;
+	left: 390px;
+	top: 285px;
 
+	font-family: Work Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 90px;
+	line-height: 40px;
+	/* identical to box height, or 47% */
 
+	text-align: center;
+	letter-spacing: -0.02em;
+}
 
+#sec2 {
+	position: absolute;
+	width: 323px;
+	height: 40px;
+	left: 485px;
+	top: 353px;
+	color: green;
+	
+	font-family: Work Sans;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 69px;
+	line-height: 40px;
+	/* identical to box height, or 62% */
 
+	text-align: center;
+	letter-spacing: -0.02em;
+}
 
+#line {
+	position: absolute;
+	width: 1385px;
+	height: 7px;
+	left: 0px;
+	top: 573px;
 
+	background: #00C938;
+	border-radius: 20px;
+}
