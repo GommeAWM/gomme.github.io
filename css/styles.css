@@ -56,6 +56,38 @@ body {
 	top: 3px;
 }
 
+#navi {
+	position: absolute;
+	border-style: solid;
+	border-color: #00C938;
+	background-color: #00C938;
+	border-radius: 20px;
+	color: black;
+	height: 71px;
+	width: 1170px;
+	left: 215px;
+	top: 120px;
+	font-weight: bold;
+}
+
+#lis {
+	display: flex;
+	list-style-type: none;
+}
+
+li {
+		font-size: 25px;
+		
+		margin-top: 2px;
+		text-indent: 501px;
+		margin: 0px 0px 0px -280px;
+}
+
+a {
+	text-decoration: none;
+}
+
+
 
 
 
