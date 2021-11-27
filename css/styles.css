@@ -75,91 +75,6 @@ body {
 	list-style-type: none;
 }
 
-li {
-		font-size: 25px;
-		
-		margin-top: 2px;
-		text-indent: 501px;
-		margin: 0px 0px 0px -280px;
-}
-
-body {
-	background-color: black;
-	color: white;
-	font-family: 'Montserrat', sans-serif;
-}
-
-.header_own {
-	position: absolute;
-	border-style: solid;
-	border-color: black;
-	height: 71px;
-	width: 1385px;
-	left: 0px;
-	top: 20px;
-}
-
-#first {
-	position: absolute;
-	background-color: white;
-	border-style: solid;
-	width: 90px;
-	height: 71px;
-	color: black;
-	/* text-indent: 15px; */
-	font-size: 30px;
-	text-align: center;
-	border-radius: 10px;
-}
-
-#First {
-	margin-top: 0px;	
-}
-
-#second {
-	position: absolute;
-	left: 110px;
-	font-size: 25px;
-	top: -25px;
-}
-
-#third {
-	display: flex;
-	position: absolute;
-	right: 0px;
-	font-size: 25px;
-	top: -28px;
-}
-
-#logo1 {
-	display: flex;
-	position: absolute;
-	width: 65px;
-	right: 260px;
-	background-color: white;
-	border-radius: 100px;
-	top: 3px;
-}
-
-#navi {
-	position: absolute;
-	border-style: solid;
-	border-color: #00C938;
-	background-color: #00C938;
-	border-radius: 20px;
-	color: black;
-	height: 71px;
-	width: 1385px;
-	left: 0px;
-	top: 120px;
-	font-weight: bold;
-}
-
-#lis {
-	display: flex;
-	list-style-type: none;
-}
-
 .li1 {
 		font-size: 25px;
 		
@@ -226,3 +141,115 @@ body {
 	line-height: 60px;
 	font-size: 40px;
 }
+
+#java {
+	text-indent: 74px;
+}
+
+#py {
+	text-indent: 30px;
+}
+
+#html {
+	text-indent: 50px;
+}
+
+#kali {
+	text-indent: -27px;
+}
+
+#ExpLine1 {
+	position: absolute;
+	width: 634px;
+	height: 11px;
+	left: 250px;
+	top: 656px;
+	color: white;
+	border-radius: 10px;
+}
+
+#ExpLine2 {
+	position: absolute;
+	width: 634px;
+	height: 11px;
+	left: 250px;
+	top: 719px;
+	color: white;
+	border-radius: 10px;
+}
+
+#ExpLine3 {
+	position: absolute;
+	width: 634px;
+	height: 11px;
+	left: 250px;
+	top: 777px;
+	color: white;
+	border-radius: 10px;
+}
+
+#ExpLine4 {
+	position: absolute;
+	width: 634px;
+	height: 11px;
+	left: 250px;
+	top: 839px;
+	color: white;
+	border-radius: 10px;
+}
+
+#ExpLine5 {
+	position: absolute;
+	width: 634px;
+	height: 11px;
+	left: 250px;
+	top: 900px;
+	color: white;
+	border-radius: 10px;
+}
+
+#ExpLine11 {
+	position: absolute;
+	width: 404px;
+	height: 11px;
+	left: 250px;
+	top: 656px;
+	border-radius: 10px;
+}
+
+#ExpLine22 {
+	position: absolute;
+	width: 254px;
+	height: 11px;
+	left: 250px;
+	top: 719px;
+	border-radius: 10px;
+}
+
+#ExpLine33 {
+	position: absolute;
+	width: 634px;
+	height: 11px;
+	left: 250px;
+	top: 777px;
+	border-radius: 10px;
+}
+
+#ExpLine44 {
+	position: absolute;
+	width: 554px;
+	height: 11px;
+	left: 250px;
+	top: 839px;
+	border-radius: 10px;
+}
+
+#ExpLine55 {
+	position: absolute;
+	width: 104px;
+	height: 11px;
+	left: 250px;
+	top: 900px;
+	border-radius: 10px;	
+}
+
