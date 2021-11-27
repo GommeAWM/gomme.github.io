@@ -9,8 +9,8 @@ body {
 	border-style: solid;
 	border-color: black;
 	height: 71px;
-	width: 1170px;
-	left: 215px;
+	width: 1385px;
+	left: 0px;
 	top: 20px;
 }
 
@@ -64,8 +64,8 @@ body {
 	border-radius: 20px;
 	color: black;
 	height: 71px;
-	width: 1170px;
-	left: 215px;
+	width: 1385px;
+	left: 0px;
 	top: 120px;
 	font-weight: bold;
 }
@@ -81,10 +81,6 @@ li {
 		margin-top: 2px;
 		text-indent: 501px;
 		margin: 0px 0px 0px -280px;
-}
-
-a {
-	text-decoration: none;
 }
 
 
