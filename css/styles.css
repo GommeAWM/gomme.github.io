@@ -83,6 +83,91 @@ li {
 		margin: 0px 0px 0px -280px;
 }
 
+body {
+	background-color: black;
+	color: white;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.header_own {
+	position: absolute;
+	border-style: solid;
+	border-color: black;
+	height: 71px;
+	width: 1385px;
+	left: 0px;
+	top: 20px;
+}
+
+#first {
+	position: absolute;
+	background-color: white;
+	border-style: solid;
+	width: 90px;
+	height: 71px;
+	color: black;
+	/* text-indent: 15px; */
+	font-size: 30px;
+	text-align: center;
+	border-radius: 10px;
+}
+
+#First {
+	margin-top: 0px;	
+}
+
+#second {
+	position: absolute;
+	left: 110px;
+	font-size: 25px;
+	top: -25px;
+}
+
+#third {
+	display: flex;
+	position: absolute;
+	right: 0px;
+	font-size: 25px;
+	top: -28px;
+}
+
+#logo1 {
+	display: flex;
+	position: absolute;
+	width: 65px;
+	right: 260px;
+	background-color: white;
+	border-radius: 100px;
+	top: 3px;
+}
+
+#navi {
+	position: absolute;
+	border-style: solid;
+	border-color: #00C938;
+	background-color: #00C938;
+	border-radius: 20px;
+	color: black;
+	height: 71px;
+	width: 1385px;
+	left: 0px;
+	top: 120px;
+	font-weight: bold;
+}
+
+#lis {
+	display: flex;
+	list-style-type: none;
+}
+
+.li1 {
+		font-size: 25px;
+		
+		margin-top: 2px;
+		text-indent: 501px;
+		margin: 0px 0px 0px -280px;
+}
+
 #sec1 {
 	position: absolute;
 	width: 500px;
@@ -106,7 +191,7 @@ li {
 	width: 323px;
 	height: 40px;
 	left: 485px;
-	top: 353px;
+	top: 359px;
 	color: green;
 	
 	font-family: Work Sans;
@@ -129,4 +214,15 @@ li {
 
 	background: #00C938;
 	border-radius: 20px;
+}
+
+#ExpList {
+	position: absolute;
+	top: 600px;
+	left: -00px;
+	text-align: left;
+	font-weight: bold;
+	list-style-type: none;
+	line-height: 60px;
+	font-size: 40px;
 }
