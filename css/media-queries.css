@@ -37,7 +37,7 @@
 	.li1 {
 		font-size: 30px;
 		margin-top: 2px;
-		text-indent: 570px;
+		padding: 0 370px;
 		margin: 0px 0px 0px -245px;
 	}
 	
@@ -51,6 +51,65 @@
 		left: 41%;
 	}
 	
+	#title {
+		position: absolute;
+		top: 1100px;
+		font-size: 100px;
+		width: 50%;
+		height: 40px;
+		left: 38%;
+		padding: 10px;
+		color: green;
+
+		font-family: Work Sans;
+		font-style: normal;
+		font-weight: bold;
+		line-height: 40px;
+	/* identical to box height, or 47% */
+	}
+	
+	#text {
+		position: absolute;
+		top: 1200px;
+		font-size: 50px;
+		width: 50%;
+		left: 38%;
+		padding: 10px;
+	}	
+	
+	#title_contact {
+		position: absolute;
+		top: 1850px;
+		font-size: 100px;
+		width: 40%;
+		height: 40px;
+		left: 04%;
+		padding: 10px;
+		color: green;
+
+		font-family: Work Sans;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 90px;
+		line-height: 40px;
+	}
+	
+	#navi_vk {
+	}
+	
+	#img_vk {
+		position: absolute;
+		top: 1912px;
+		left: 38%;
+		height: 100px;
+	}
+	
+	#img_yt {
+		position: absolute;
+		top: 1920px;
+		left: 70%;
+		height: 100px;
+	}
 }
 
 @media screen and (max-width: 1385px) {
