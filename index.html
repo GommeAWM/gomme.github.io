@@ -1,7 +1,8 @@
-<!doctype html>
+<<!doctype html>
 <html>
 <head>
 	<meta charset="utf-8">
+	<!-- <meta name="viewport" content="width=1385"> -->
 	<title>Reydovich</title>
 	<link rel="stylesheet" href="css/styles.css">
 	<link rel="stylesheet" href="css/media-queries.css">
@@ -10,26 +11,26 @@
 <body>
 	<header class="header_own" id="hom">
 		<div id="first">
-			<h1 id="First">RL&lt;o</h1>
+			<h1 id="First">RL&lt;</h1>
 		</div>
 		<div id="second">
 			<h1>ReidtLine</h1>
 		</div>
-		<div id="third">
+		<div id="third" class="logotext">
 			<h1>Reydovich</h1>
 		</div>
-		<img id="logo1" src="Bilder/logo.svg" alt="Logo">
+		<img class="logotext" id="logo1" src="Bilder/logo.svg" alt="Logo">
 	</header>
 	<nav id="navi">
 		<ul id="lis">
-			<li class="li1"><a href="#hom">Home</a></li>
-			<li class="li1"><a href="">About_me</a></li>
-			<li class="li1"><a href="">Contact</a></li>
+			<a href="#navi"><li class="li1">Home</li></a>
+			<a href="#absatz"><li class="li1">About_me</li></a>
+			<a href="#absatz2"><li class="li1">Contact</li></a>
 		</ul>
 	</nav>
 	<section>
-		<h1 id="sec1">REYDOVICH</h1>
-		<h3 id="sec2">Experience</h3>
+		<h1 class="sec_bo" id="sec1">REYDOVICH</h1>
+		<h3 class="sec_bo" id="sec2">Experience</h3>
 	</section>
 	<hr id="line">
 	<section>
@@ -38,22 +39,35 @@
 			<li class="ExpLi" id="py">Python</li>
 			<li class="ExpLi" id="html">HTML</li>
 			<li class="ExpLi" id="yt">YouTube</li>
-			<li class="ExpLi" id="kali">Kali Linux</li>
+			<li class="ExpLi" id="kali">Kali_Linux&nbsp; &nbsp;&nbsp;</li>
 		</ul>
 	</section>
-	<section>
+	<section class="expform">
 		<hr class="ExpFil1" id="ExpLine1" color="white">
 		<hr class="ExpFil2" id="ExpLine2" color="white">
 		<hr class="ExpFil3" id="ExpLine3" color="white">
 		<hr class="ExpFil4" id="ExpLine4" color="white">
 		<hr class="ExpFil5" id="ExpLine5" color="white">
 	</section>
-	<section>
-		<hr id="ExpLine11" color="#42FF00">
-		<hr id="ExpLine22" color="#42FF00">
-		<hr id="ExpLine33" color="#42FF00">
-		<hr id="ExpLine44" color="#42FF00">
-		<hr id="ExpLine55" color="#42FF00">
+	<section class="expform">
+		<hr id="ExpLine11" color="green">
+		<hr id="ExpLine22" color="green">
+		<hr id="ExpLine33" color="green">
+		<hr id="ExpLine44" color="green">
+		<hr id="ExpLine55" color="green">
 	</section>
+	<hr id="absatz">
+	<section class="about_me">
+		<h1 id="title">About Me</h1>
+		<p id="text">Hello there! My name ist Daniel and i am student. I've always had a passion for programming. I made my first experiences with programming languages in 2020. I am constantly improving in this area. Java is my favorite programming language.</p>
+	</section>
+	<hr id="absatz2">
+	<section id="contact">
+		<h1 id="title_contact">Contact: </h1>
+	</section>
+	<nav class="navi_contact">
+		<a href="https://vk.com/xxtdaniel" id="navi_vk"><img id="img_vk" src="Bilder/icon fa-vk.png" alt="VK"></a>
+		<a href="https://www.youtube.com/channel/UCn9AtpkxOkkBwPW1Iy_my1g"><img id="img_yt" src="Bilder/icon fa-comments.jpg" alt="YouTube"></a>
+	</nav>
 </body>
 </html>
