@@ -253,6 +253,66 @@
 		right: 30px;
 	}
 	
+	#title {
+		position: absolute;
+		top: 1000px;
+		font-size: 100px;
+		width: 55%;
+		height: 40px;
+		left: 08%;
+		padding: 10px;
+		color: green;
+
+		font-family: Work Sans;
+		font-style: normal;
+		font-weight: bold;
+		line-height: 40px;
+	}
+		
+	#text {
+		position: absolute;
+		top: 1100px;
+		font-size: 50px;
+		width: 70%;
+		left: 08%;
+		padding: 10px;
+	}	
+	
+	#title_contact {
+		position: absolute;
+		top: 1850px;
+		font-size: 100px;
+		width: 40%;
+		height: 40px;
+		left: 04%;
+		padding: 10px;
+		color: green;
+
+		font-family: Work Sans;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 90px;
+		line-height: 40px;
+	}
+	
+	
+	#navi_vk {
+	}
+	
+	#img_vk {
+		position: absolute;
+		top: 1912px;
+		left: 48%;
+		height: 100px;
+	}
+	
+	#img_yt {
+		position: absolute;
+		top: 1914px;
+		left: 70%;
+		height: 100px;
+	}
+	
 }
 
 @media screen and (max-width: 960px) {
@@ -579,7 +639,7 @@
 		position: absolute;
 		top: 1100px;
 		font-size: 50px;
-		width: 80%;
+		width: 100%;
 		left: 1%;
 		padding: 10px;
 	}	
@@ -607,14 +667,14 @@
 	#img_vk {
 		position: absolute;
 		top: 1852px;
-		left: 48%;
+		left: 61%;
 		height: 100px;
 	}
 	
 	#img_yt {
 		position: absolute;
 		top: 1854px;
-		left: 70%;
+		left: 80%;
 		height: 100px;
 	}
 	
